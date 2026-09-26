@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Alemi</h1>
 
 <h3 align="center">
-💻 Web Developer • 👨‍💻 Software Developer • 🎓 Software Engineering Student
+💻 Web Developer • 👨‍💻 Software Developer • 🎓 Computer Science Student
 </h3>
 
 <p align="center">
@@ -18,13 +18,15 @@
 
 <img align="right" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
-* 🎓 Software Engineering Student
-* 💻 Web Developer & Software Developer
-* 🌐 Passionate about building modern and responsive web applications
-* 🚀 Interested in both Front-End and Back-End Development
-* 🌱 Always learning new technologies and improving my coding skills
+* 🎓 Computer Science Student
+* 💻 **Web Developer** passionate about building practical and user-friendly applications
+* 🌐 Experienced with **HTML, CSS, Tailwind.css, JavaScript, TypeScript, PHP, React,  and MySQL**
+* 🛠️ Familiar with **Git, GitHub, VS Code, and GSAP**
+* 🚀 Interested in both **Front-End and Back-End Development**
+* 🌱 Continuously learning and improving my programming and software development skills
 * 🎯 Goal: Become a **Full-Stack Software Engineer**
-* 🌍 Interested in building software that solves real-world problems
+* 🌍 Passionate about using technology to solve real-world problems
+
 
 ---
 
@@ -33,7 +35,7 @@
 ### 🌐 Frontend & Web Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,html,css"/>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
 ### ⚙️ Backend & Programming
@@ -48,36 +50,47 @@
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
+### 🎨 Web Animation
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=javascript"/>
+</p>
+
+<p align="center">
+  <b>GSAP • ScrollTrigger</b>
+</p>
+
 ### 🔧 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-* ⚡ Advanced JavaScript & React
-* 🐘 Advanced PHP & Backend Architecture
-* ⚙️ Database Optimization & Management
-* 🏗️ Software Engineering & System Design
+* 🚀 Improving JavaScript and modern web development
+* 🐘 Strengthening PHP and backend development
+* 🗄️ Improving database design and management
+* 🏗️ Learning software engineering and system design
+* 💡 Building practical projects to strengthen my development skills
 
 ---
 
 ## 🚀 What I Build
 
-* 🌐 Responsive Websites & Web Apps
-* 💻 Dynamic Full-Stack Applications
-* 🔐 Authentication & Login Systems
-* 🗄️ Database-driven Applications
-* ⚙️ Backend Logic & APIs
+* 🌐 Responsive Websites & Web Applications
+* 💻 Dynamic Web Applications
+* 🗄️ Database-Driven Applications
+* ⚙️ Backend Functionality with PHP & MySQL
+* 🎨 Interactive Websites with GSAP & ScrollTrigger
 
 ---
 
 ## 🎯 My Goal
 
-My goal is to become a **professional Full-Stack Software Engineer**, build useful software solutions, contribute to open-source projects, and continuously improve my development skills.
+My goal is to become a **professional Full-Stack Software Engineer**, build practical software that solves real-world problems, contribute to meaningful projects, and continuously improve my development skills.
 
 ---
 
