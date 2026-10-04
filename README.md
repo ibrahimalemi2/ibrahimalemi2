@@ -24,7 +24,7 @@
 * 🛠️ Familiar with **Git, GitHub, VS Code, and GSAP**
 * 🚀 Interested in both **Front-End and Back-End Development**
 * 🌱 Continuously learning and improving my programming and software development skills
-* 🎯 Goal: Become a **Full-Stack Software Engineer**
+* 🎯 Goal: Become a **Full-Stack Web Developer**
 * 🌍 Passionate about using technology to solve real-world problems
 
 
